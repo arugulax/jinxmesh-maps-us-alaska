@@ -1,0 +1,1907 @@
+{
+ "name": "alaska",
+ "format": "JMVM 4",
+ "group": 35351,
+ "bytes": 5966620104,
+ "pieces": [
+  {
+   "file": "alaska-1.jmv",
+   "bytes": 17649915,
+   "sha256": "5702c49839cb4365423083bfd199f912a84f9cbdfce8eb3c081db0132ce62a0b",
+   "south": 69.41124,
+   "west": -161.01562,
+   "north": 71.59441,
+   "east": -156.09375
+  },
+  {
+   "file": "alaska-2.jmv",
+   "bytes": 28739675,
+   "sha256": "5d5c39b17a335208ab6658f43453a4c3948b9bf976f0072a91921ece9dbdef9a",
+   "south": 69.16256,
+   "west": -156.09375,
+   "north": 71.55274,
+   "east": -149.76562
+  },
+  {
+   "file": "alaska-3.jmv",
+   "bytes": 32630494,
+   "sha256": "d518ecdd2ecf297e6abc0256abd432c79a8ccdeff8892cc85db8112b43be0de7",
+   "south": 69.16256,
+   "west": -149.76562,
+   "north": 70.77244,
+   "east": -145.54688
+  },
+  {
+   "file": "alaska-4.jmv",
+   "bytes": 24036367,
+   "sha256": "b158657ea814f00e8d8de725d19df0ac904e05d107585404dafe90365c12feac",
+   "south": 68.39918,
+   "west": -167.3877,
+   "north": 70.4368,
+   "east": -162.42188
+  },
+  {
+   "file": "alaska-5.jmv",
+   "bytes": 31143221,
+   "sha256": "3fff23e4a5f44a3b418dee5d1a1b57418fa44a0e1692b548abad69c6728c487f",
+   "south": 68.13885,
+   "west": -162.42188,
+   "north": 70.58342,
+   "east": -161.01562
+  },
+  {
+   "file": "alaska-6.jmv",
+   "bytes": 36689054,
+   "sha256": "d658d551035310dc4fc92ac985847ae3d295eb26644d5decd9349ccd8482f8a8",
+   "south": 69.16256,
+   "west": -145.54688,
+   "north": 70.34832,
+   "east": -143.4375
+  },
+  {
+   "file": "alaska-7.jmv",
+   "bytes": 39286562,
+   "sha256": "1d941c11ae789984191a7a17786ee1fb55ae282bc92090b56f82f30708521b50",
+   "south": 69.16256,
+   "west": -143.4375,
+   "north": 70.36309,
+   "east": -140.93262
+  },
+  {
+   "file": "alaska-8.jmv",
+   "bytes": 23089128,
+   "sha256": "06ee7294184dbc0f81e8d420a070cd16005a2b6d80b09e393c57bedb845ce8f9",
+   "south": 68.65655,
+   "west": -161.01562,
+   "north": 69.41124,
+   "east": -156.09375
+  },
+  {
+   "file": "alaska-9.jmv",
+   "bytes": 32297563,
+   "sha256": "47b3b5cc3be49f966e8056ef9ca109cdbffaa040c8bced11aa6cc11198fe4100",
+   "south": 68.39918,
+   "west": -156.09375,
+   "north": 69.16256,
+   "east": -149.76562
+  },
+  {
+   "file": "alaska-10.jmv",
+   "bytes": 29544092,
+   "sha256": "54afffd1e9a7b67a1efa85a5e966682a11ea22da71b1e39fb48e0809d0fe3bd1",
+   "south": 68.911,
+   "west": -149.76562,
+   "north": 69.16256,
+   "east": -145.54688
+  },
+  {
+   "file": "alaska-11.jmv",
+   "bytes": 22163623,
+   "sha256": "8a9ed8befaffa09b131bf41187cf90f403f3cfd6855b50b3574eb1527f5cde21",
+   "south": 68.65655,
+   "west": -145.54688,
+   "north": 69.16256,
+   "east": -144.84375
+  },
+  {
+   "file": "alaska-12.jmv",
+   "bytes": 38111467,
+   "sha256": "aa660b95ecbea652ff1da0d50118281c34e5859c5f784f013055ff7e38f63d1e",
+   "south": 68.65655,
+   "west": -144.84375,
+   "north": 69.16256,
+   "east": -143.4375
+  },
+  {
+   "file": "alaska-13.jmv",
+   "bytes": 30978162,
+   "sha256": "3d90f191df9e1afcdeb833b23bf34866784d20269c6a0074f35dd7a56885c4b2",
+   "south": 68.65655,
+   "west": -143.4375,
+   "north": 69.16256,
+   "east": -142.03125
+  },
+  {
+   "file": "alaska-14.jmv",
+   "bytes": 21866750,
+   "sha256": "f525a33d4c31faf6f9473681820fc75b62222531cad121a26a081d63f0ebdd9b",
+   "south": 68.65655,
+   "west": -142.03125,
+   "north": 69.16256,
+   "east": -140.93262
+  },
+  {
+   "file": "alaska-15.jmv",
+   "bytes": 35073471,
+   "sha256": "4435dac5c2ce2d11f89a05e2bab4af02dc57c35f7bff06a11131d0ec0bfa0195",
+   "south": 68.65655,
+   "west": -149.76562,
+   "north": 68.911,
+   "east": -145.54688
+  },
+  {
+   "file": "alaska-16.jmv",
+   "bytes": 23210524,
+   "sha256": "896529cdf2cb0b0488033497fc48cefa077544e690ff0acac2111d1148f21fb6",
+   "south": 68.13885,
+   "west": -161.01562,
+   "north": 68.65655,
+   "east": -159.60938
+  },
+  {
+   "file": "alaska-17.jmv",
+   "bytes": 27617126,
+   "sha256": "29f916d1894d6e32474d5a4c51d5bec9ed6c315d4fe8b5dca05bf9d98444e7f2",
+   "south": 68.13885,
+   "west": -159.60938,
+   "north": 68.65655,
+   "east": -156.09375
+  },
+  {
+   "file": "alaska-18.jmv",
+   "bytes": 29490672,
+   "sha256": "283895a34e04bebdc0be9793860e40c874182df0426c8d9a7a04e911c1cb6e92",
+   "south": 68.13885,
+   "west": -149.76562,
+   "north": 68.65655,
+   "east": -148.35938
+  },
+  {
+   "file": "alaska-19.jmv",
+   "bytes": 20276268,
+   "sha256": "061336f55a8ce357a9e0ef782798414110fc973965e3c9fefa4182744fbde8f3",
+   "south": 68.13885,
+   "west": -148.35938,
+   "north": 68.65655,
+   "east": -147.65625
+  },
+  {
+   "file": "alaska-20.jmv",
+   "bytes": 26996202,
+   "sha256": "62c57742b5e86aeadc8ea45390a251e4d78c27ee90359db109069a98fb588a8b",
+   "south": 68.13885,
+   "west": -147.65625,
+   "north": 68.65655,
+   "east": -146.25
+  },
+  {
+   "file": "alaska-21.jmv",
+   "bytes": 27321763,
+   "sha256": "f9d8a6e391b2f128c64420c017260a7e448359f6233f0341af53f0d487c021db",
+   "south": 68.39918,
+   "west": -146.25,
+   "north": 68.65655,
+   "east": -143.4375
+  },
+  {
+   "file": "alaska-22.jmv",
+   "bytes": 39246452,
+   "sha256": "dc93f73511951e43bb694b8dcc6433ad0832e1ca49986300c35b9227d6daaa9e",
+   "south": 67.06743,
+   "west": -143.4375,
+   "north": 68.65655,
+   "east": -140.93262
+  },
+  {
+   "file": "alaska-23.jmv",
+   "bytes": 18954204,
+   "sha256": "06de293b4981946a223316c811ac717125bdda33f58611339ce940f6a9de2992",
+   "south": 68.13885,
+   "west": -167.3877,
+   "north": 68.39918,
+   "east": -162.42188
+  },
+  {
+   "file": "alaska-24.jmv",
+   "bytes": 32222190,
+   "sha256": "478028f74b80d76140c10dea249722527af9993c978197e17b58fde760048ad4",
+   "south": 67.87554,
+   "west": -156.09375,
+   "north": 68.39918,
+   "east": -153.98438
+  },
+  {
+   "file": "alaska-25.jmv",
+   "bytes": 25500232,
+   "sha256": "ad70803dee07ffae9ddccab800dd4d30511944b7be68e6052842b309e024989e",
+   "south": 67.87554,
+   "west": -153.98438,
+   "north": 68.39918,
+   "east": -152.57812
+  },
+  {
+   "file": "alaska-26.jmv",
+   "bytes": 27808793,
+   "sha256": "f3b70448de72a1d96755d07ddfbbf778bd4a9f2c89d4c589354a7c50c994be4a",
+   "south": 67.87554,
+   "west": -152.57812,
+   "north": 68.39918,
+   "east": -151.17188
+  },
+  {
+   "file": "alaska-27.jmv",
+   "bytes": 34146322,
+   "sha256": "2282824b3a39af6974b4daf25c05dbfaba99cfce563ef9f36b25c27cfd02de10",
+   "south": 67.87554,
+   "west": -151.17188,
+   "north": 68.39918,
+   "east": -149.76562
+  },
+  {
+   "file": "alaska-28.jmv",
+   "bytes": 36009300,
+   "sha256": "375987424f7f4318bd29bfe4cf9ded27c7a16a67ae17f5b3a5f657f2236adc6c",
+   "south": 67.33986,
+   "west": -146.25,
+   "north": 68.39918,
+   "east": -143.4375
+  },
+  {
+   "file": "alaska-29.jmv",
+   "bytes": 17600467,
+   "sha256": "f516b1e5630b81cfcc9fe49255e54eb52818429a7ba7e0fc68a79a9b7f74d673",
+   "south": 66.79191,
+   "west": -166.9043,
+   "north": 68.13885,
+   "east": -162.42188
+  },
+  {
+   "file": "alaska-30.jmv",
+   "bytes": 27425741,
+   "sha256": "7d81100b0de2cb2a73bbaf280673db0dea37efa034bb160797683b6e33ad0ea2",
+   "south": 66.79191,
+   "west": -162.42188,
+   "north": 68.13885,
+   "east": -161.01562
+  },
+  {
+   "file": "alaska-31.jmv",
+   "bytes": 32896933,
+   "sha256": "4274e85ab40d93776d25d1189ca3bed5cd94279cf255a7f35d6a19961e1f4c9f",
+   "south": 66.79191,
+   "west": -161.01562,
+   "north": 68.13885,
+   "east": -159.60938
+  },
+  {
+   "file": "alaska-32.jmv",
+   "bytes": 38851189,
+   "sha256": "3c884e9c941d9eddf4a095ff086a4df8aab07b2cd73123930fdfdfd2b2a364eb",
+   "south": 66.79191,
+   "west": -159.60938,
+   "north": 68.13885,
+   "east": -157.5
+  },
+  {
+   "file": "alaska-33.jmv",
+   "bytes": 16294624,
+   "sha256": "784cff51356870a4e8a0e788a3f69d4cf444a63c91fb27501b03a6e3cfd2f587",
+   "south": 67.60922,
+   "west": -157.5,
+   "north": 68.13885,
+   "east": -156.09375
+  },
+  {
+   "file": "alaska-34.jmv",
+   "bytes": 22870659,
+   "sha256": "f965d996dc26acae20a94fde72d0f09ff64a080200791d457a4d2135786f6590",
+   "south": 67.33986,
+   "west": -149.76562,
+   "north": 68.13885,
+   "east": -149.0625
+  },
+  {
+   "file": "alaska-35.jmv",
+   "bytes": 33929077,
+   "sha256": "0a1866766e1dbbaea83fce25875147abe57791d179c3cded217f6d21b7da9f2f",
+   "south": 67.33986,
+   "west": -149.0625,
+   "north": 68.13885,
+   "east": -147.65625
+  },
+  {
+   "file": "alaska-36.jmv",
+   "bytes": 21476325,
+   "sha256": "744185b7050bff06eb8d697c90f9dfaf163ecf05eb7ea65ca119069191fe6ce6",
+   "south": 67.33986,
+   "west": -147.65625,
+   "north": 68.13885,
+   "east": -146.25
+  },
+  {
+   "file": "alaska-37.jmv",
+   "bytes": 36276599,
+   "sha256": "7ba5f15be5a8943d9417192ed215ac7b203407141a3549d267fdd46d9cf5fef2",
+   "south": 67.33986,
+   "west": -156.09375,
+   "north": 67.87554,
+   "east": -154.6875
+  },
+  {
+   "file": "alaska-38.jmv",
+   "bytes": 34080514,
+   "sha256": "8e862b428cfde6a68ad69f32c5b5f8f1a68bdc4de4a930a0abd76b83f31e9f73",
+   "south": 67.33986,
+   "west": -154.6875,
+   "north": 67.87554,
+   "east": -153.28125
+  },
+  {
+   "file": "alaska-39.jmv",
+   "bytes": 38239937,
+   "sha256": "272b032209971d3162581aa36e7a91968a9392deb7e426e93fe5fc7a2475f5e1",
+   "south": 67.06743,
+   "west": -153.28125,
+   "north": 67.87554,
+   "east": -151.875
+  },
+  {
+   "file": "alaska-40.jmv",
+   "bytes": 37034612,
+   "sha256": "a00246e1b14e717102c42f7c34a15fef746009ada94c36ddb8b4d380546bb0c8",
+   "south": 67.06743,
+   "west": -151.875,
+   "north": 67.87554,
+   "east": -150.46875
+  },
+  {
+   "file": "alaska-41.jmv",
+   "bytes": 19941292,
+   "sha256": "d7d8b0dded11a4975a358811d945a8a0a7ccdad988ecf17b011fdfbf16087062",
+   "south": 67.06743,
+   "west": -150.46875,
+   "north": 67.87554,
+   "east": -149.76562
+  },
+  {
+   "file": "alaska-42.jmv",
+   "bytes": 32864327,
+   "sha256": "5f9144fc0a32f168ff0c91d7cdf17599737e1518d07d7fe23e91f03b2652676a",
+   "south": 66.79191,
+   "west": -157.5,
+   "north": 67.60922,
+   "east": -156.09375
+  },
+  {
+   "file": "alaska-43.jmv",
+   "bytes": 20916531,
+   "sha256": "520e9a12ce587c7bfa4201c38eb36b0658494dd5181a9f2fa38306b646d19331",
+   "south": 67.06743,
+   "west": -156.09375,
+   "north": 67.33986,
+   "east": -154.6875
+  },
+  {
+   "file": "alaska-44.jmv",
+   "bytes": 17313772,
+   "sha256": "7e437a339e9ae06f13c3d97045b9263734796c8121ec39a135a0a8b133489e5b",
+   "south": 67.06743,
+   "west": -154.6875,
+   "north": 67.33986,
+   "east": -153.28125
+  },
+  {
+   "file": "alaska-45.jmv",
+   "bytes": 24530146,
+   "sha256": "4c422dc5f522562bce6a16860aa9e96830ddc865eee6e2d91bc7388e3597aa0b",
+   "south": 66.23146,
+   "west": -149.76562,
+   "north": 67.33986,
+   "east": -148.35938
+  },
+  {
+   "file": "alaska-46.jmv",
+   "bytes": 19841654,
+   "sha256": "043aa7686edf1f2edd58fdf9e35e72fa514b9330852b1929160a39172f25a592",
+   "south": 66.23146,
+   "west": -148.35938,
+   "north": 67.33986,
+   "east": -146.95312
+  },
+  {
+   "file": "alaska-47.jmv",
+   "bytes": 24578215,
+   "sha256": "e6cc2cde48e0827c09ac6aa85215041bf6f549c7210e279d214aba35260310be",
+   "south": 65.94647,
+   "west": -146.95312,
+   "north": 67.33986,
+   "east": -144.84375
+  },
+  {
+   "file": "alaska-48.jmv",
+   "bytes": 20434165,
+   "sha256": "05d65eaa31b4743d67fb9b08365fe4b6a87ab8275ee31335ebadf3a085408a10",
+   "south": 65.94647,
+   "west": -144.84375,
+   "north": 67.33986,
+   "east": -143.4375
+  },
+  {
+   "file": "alaska-49.jmv",
+   "bytes": 22607956,
+   "sha256": "4c050b813f12dddfb9b05c306a05e2800fe12b5757676fba8d044e74f71be08c",
+   "south": 66.23146,
+   "west": -156.09375,
+   "north": 67.06743,
+   "east": -154.6875
+  },
+  {
+   "file": "alaska-50.jmv",
+   "bytes": 20472900,
+   "sha256": "0a7d2d11c763844e9f425958eebe3e195cc9d49cf622044cbc69e19611683649",
+   "south": 66.23146,
+   "west": -154.6875,
+   "north": 67.06743,
+   "east": -153.28125
+  },
+  {
+   "file": "alaska-51.jmv",
+   "bytes": 28164768,
+   "sha256": "8c161daa99fd944d317344734b83b95c403762dced97cdceeb50cb8311e73e66",
+   "south": 65.94647,
+   "west": -153.28125,
+   "north": 67.06743,
+   "east": -151.17188
+  },
+  {
+   "file": "alaska-52.jmv",
+   "bytes": 22879027,
+   "sha256": "b46fe4fa9a34f6c9a4118b396b6b44af76185ce7b61b0e95470eabbe553377a7",
+   "south": 65.94647,
+   "west": -151.17188,
+   "north": 67.06743,
+   "east": -149.76562
+  },
+  {
+   "file": "alaska-53.jmv",
+   "bytes": 38954830,
+   "sha256": "2f6ab3d97b34a0fa8dd0c38315ac93c2a6b5cb2305a1f852330ed74dffe01a0b",
+   "south": 65.94647,
+   "west": -143.4375,
+   "north": 67.06743,
+   "east": -140.93262
+  },
+  {
+   "file": "alaska-54.jmv",
+   "bytes": 36497364,
+   "sha256": "82f5914284bc4c50e16d0f5035dd5ffbb975cfac23c98ba072210afc0ca7af73",
+   "south": 63.23363,
+   "west": -172.30957,
+   "north": 66.68778,
+   "east": -165.23438
+  },
+  {
+   "file": "alaska-55.jmv",
+   "bytes": 26809419,
+   "sha256": "bd298b503f8b18883981d96d8b4f25456942cf3cab350b8225b4a96dfbabd9ff",
+   "south": 65.07213,
+   "west": -165.23438,
+   "north": 66.79191,
+   "east": -162.42188
+  },
+  {
+   "file": "alaska-56.jmv",
+   "bytes": 39584347,
+   "sha256": "55786f004e1b75408f9ab3a322652417bf2a62dff1783e083cfffc0d09c511dc",
+   "south": 64.77413,
+   "west": -162.42188,
+   "north": 66.79191,
+   "east": -159.60938
+  },
+  {
+   "file": "alaska-57.jmv",
+   "bytes": 21563932,
+   "sha256": "2c7ec30e22c0867b5e0f80be774f49bb94bc8980f702513f67c4669c75e41364",
+   "south": 65.65827,
+   "west": -159.60938,
+   "north": 66.79191,
+   "east": -157.5
+  },
+  {
+   "file": "alaska-58.jmv",
+   "bytes": 20208103,
+   "sha256": "bc94d2716e32fa5dc8728717d3ec30371adfbd64a97e391a5e0f73a83a943e17",
+   "south": 65.65827,
+   "west": -157.5,
+   "north": 66.79191,
+   "east": -156.09375
+  },
+  {
+   "file": "alaska-59.jmv",
+   "bytes": 22171981,
+   "sha256": "2d74af01683172b22874d14eecb77c2e973a61a269c9b8e201c3901de8efe1e6",
+   "south": 65.07213,
+   "west": -156.09375,
+   "north": 66.23146,
+   "east": -154.6875
+  },
+  {
+   "file": "alaska-60.jmv",
+   "bytes": 25603487,
+   "sha256": "05c625705e2433967b98a61574f247fc2b94e82da20847ba2b623802d3196f23",
+   "south": 65.07213,
+   "west": -154.6875,
+   "north": 66.23146,
+   "east": -153.28125
+  },
+  {
+   "file": "alaska-61.jmv",
+   "bytes": 21538802,
+   "sha256": "b585cf8485b14c925eaf87e113d6bbd3f20bf1b40c9de6fd2531c4f0c8029011",
+   "south": 65.07213,
+   "west": -149.76562,
+   "north": 66.23146,
+   "east": -148.35938
+  },
+  {
+   "file": "alaska-62.jmv",
+   "bytes": 30001076,
+   "sha256": "d1074fcab58dfb31f80a3b7d3c3b823dfb7fa5fda74c98d0387d37a235988023",
+   "south": 65.07213,
+   "west": -148.35938,
+   "north": 66.23146,
+   "east": -146.95312
+  },
+  {
+   "file": "alaska-63.jmv",
+   "bytes": 28742056,
+   "sha256": "b53e0dcc27f64763ac411973b4b20913ea4c603a2d3303b546df79c977dfb593",
+   "south": 65.07213,
+   "west": -153.28125,
+   "north": 65.94647,
+   "east": -151.17188
+  },
+  {
+   "file": "alaska-64.jmv",
+   "bytes": 23958100,
+   "sha256": "6bf2021e79680d7ae68ffb6f0af7ab433118014349d36ec5ed4928ef84389403",
+   "south": 65.07213,
+   "west": -151.17188,
+   "north": 65.94647,
+   "east": -149.76562
+  },
+  {
+   "file": "alaska-65.jmv",
+   "bytes": 22497754,
+   "sha256": "066ec5dc61b617ffcad2615d3a1b32e6627116f47221bb2512031610a5da5a46",
+   "south": 65.07213,
+   "west": -146.95312,
+   "north": 65.94647,
+   "east": -145.54688
+  },
+  {
+   "file": "alaska-66.jmv",
+   "bytes": 27819484,
+   "sha256": "9c6bb1d9e32c266e07045b3c933b2a847b6a0974fa0d9a7f36b804dd35134c80",
+   "south": 65.07213,
+   "west": -145.54688,
+   "north": 65.94647,
+   "east": -143.4375
+  },
+  {
+   "file": "alaska-67.jmv",
+   "bytes": 39391401,
+   "sha256": "a771561102e7a71ffe877f7d848dcc4f2e6ef8888f7fbadfe56891cb55466963",
+   "south": 65.07213,
+   "west": -143.4375,
+   "north": 65.94647,
+   "east": -140.93262
+  },
+  {
+   "file": "alaska-68.jmv",
+   "bytes": 24504162,
+   "sha256": "b2d9765413342091b903f0e73cbb7d90f77a6061b65024221d5071dfc35801f7",
+   "south": 64.77413,
+   "west": -159.60938,
+   "north": 65.65827,
+   "east": -158.20312
+  },
+  {
+   "file": "alaska-69.jmv",
+   "bytes": 24009866,
+   "sha256": "43bfa80f02781fcf74370f465b927e3d6b297e9716ef887a1aef846fc8744f1c",
+   "south": 64.77413,
+   "west": -158.20312,
+   "north": 65.65827,
+   "east": -156.09375
+  },
+  {
+   "file": "alaska-70.jmv",
+   "bytes": 19907473,
+   "sha256": "c7cb70588011dcb47ae0e9e4ba0a8f72dd51400a508cb7179a32e7256abfe5f9",
+   "south": 63.23363,
+   "west": -165.23438,
+   "north": 65.07213,
+   "east": -162.42188
+  },
+  {
+   "file": "alaska-71.jmv",
+   "bytes": 22955845,
+   "sha256": "df3c8d852470d0b737cdbaec123a4c94aafeccd6b07d6605b21eb07dccea332a",
+   "south": 64.16811,
+   "west": -156.09375,
+   "north": 65.07213,
+   "east": -154.6875
+  },
+  {
+   "file": "alaska-72.jmv",
+   "bytes": 23099901,
+   "sha256": "54d6d547ef345f6b5364056d87bde12a4bd8154d28e2f3652edbd35da50cf1b5",
+   "south": 64.16811,
+   "west": -154.6875,
+   "north": 65.07213,
+   "east": -153.28125
+  },
+  {
+   "file": "alaska-73.jmv",
+   "bytes": 19492826,
+   "sha256": "bd4372470fdecaf029eb6d993042580ba39936376351a7382445da9b5eed765e",
+   "south": 64.16811,
+   "west": -153.28125,
+   "north": 65.07213,
+   "east": -151.875
+  },
+  {
+   "file": "alaska-74.jmv",
+   "bytes": 29519586,
+   "sha256": "0729874b3c7036ba2c92368df04558ec6f5afbac52a79c7eb66e79d03af73651",
+   "south": 64.16811,
+   "west": -151.875,
+   "north": 65.07213,
+   "east": -149.76562
+  },
+  {
+   "file": "alaska-75.jmv",
+   "bytes": 38625336,
+   "sha256": "a350002e8435cb96689e053d5c0e9953097925e6b8322bcdc29b53b0dc1a9bf6",
+   "south": 63.86004,
+   "west": -149.76562,
+   "north": 65.07213,
+   "east": -147.65625
+  },
+  {
+   "file": "alaska-76.jmv",
+   "bytes": 21795178,
+   "sha256": "713f911102e4f6a148b948fecde9c0f2e4ba4c30a4b00963fa787e5424e9066d",
+   "south": 64.16811,
+   "west": -147.65625,
+   "north": 65.07213,
+   "east": -146.25
+  },
+  {
+   "file": "alaska-77.jmv",
+   "bytes": 23914716,
+   "sha256": "755e3af5208c1b46802720d1f5f7b26ccbaa21d4530bad4fb9388b1ed6fec17e",
+   "south": 64.47279,
+   "west": -146.25,
+   "north": 65.07213,
+   "east": -144.84375
+  },
+  {
+   "file": "alaska-78.jmv",
+   "bytes": 22809609,
+   "sha256": "ec4ef7d8ab92d88a3ec718e0028882d69e3a1f0d84f1b935aeb9e8d8b00247a0",
+   "south": 64.47279,
+   "west": -144.84375,
+   "north": 65.07213,
+   "east": -143.4375
+  },
+  {
+   "file": "alaska-79.jmv",
+   "bytes": 35462759,
+   "sha256": "45ad264c048d24daf538a5a946e013aab7068a59a283bf44ca6edcf951a2fde6",
+   "south": 64.47279,
+   "west": -143.4375,
+   "north": 65.07213,
+   "east": -140.93262
+  },
+  {
+   "file": "alaska-80.jmv",
+   "bytes": 21386580,
+   "sha256": "9fa4532d65e122f8eb64d8a7333159d2662495e36a3638ce18e9026d79756fc7",
+   "south": 64.16811,
+   "west": -162.42188,
+   "north": 64.77413,
+   "east": -159.60938
+  },
+  {
+   "file": "alaska-81.jmv",
+   "bytes": 40059096,
+   "sha256": "7857d33e937c8faf3598a6c4acd116712ec6f20d47aa42fbf79492f9cf5882f6",
+   "south": 63.23363,
+   "west": -159.60938,
+   "north": 64.77413,
+   "east": -158.20312
+  },
+  {
+   "file": "alaska-82.jmv",
+   "bytes": 35935981,
+   "sha256": "537fb21e394ddecb690319d3c8c0410e25f618c9374cf2e347f85370c8865825",
+   "south": 63.23363,
+   "west": -158.20312,
+   "north": 64.77413,
+   "east": -156.09375
+  },
+  {
+   "file": "alaska-83.jmv",
+   "bytes": 28546568,
+   "sha256": "b97053a1fa97fd49b3d81536a7385414c9ce00393d9fdafd679426eef3cacc9a",
+   "south": 63.54855,
+   "west": -146.25,
+   "north": 64.47279,
+   "east": -144.84375
+  },
+  {
+   "file": "alaska-84.jmv",
+   "bytes": 27784260,
+   "sha256": "fd5127e20145fa3b0574904d0e612bd972010719cb2ddfe5e8683b15fb28403f",
+   "south": 63.54855,
+   "west": -144.84375,
+   "north": 64.47279,
+   "east": -143.4375
+  },
+  {
+   "file": "alaska-85.jmv",
+   "bytes": 39784449,
+   "sha256": "712e07a222006bd8127771f3c17193f384c039dc6afc044ec2d37f20ad260d80",
+   "south": 63.54855,
+   "west": -143.4375,
+   "north": 64.47279,
+   "east": -140.93262
+  },
+  {
+   "file": "alaska-86.jmv",
+   "bytes": 28463649,
+   "sha256": "027b8119c2bf51153c95eb8b4611eda3d9c534760b4aa73bf57cef497b7a1a4f",
+   "south": 63.23363,
+   "west": -162.42188,
+   "north": 64.16811,
+   "east": -159.60938
+  },
+  {
+   "file": "alaska-87.jmv",
+   "bytes": 19030269,
+   "sha256": "aaa46162e572794b17bd190f9fa6e1953e26d74b827ed1d969b4bc006b7192bd",
+   "south": 63.23363,
+   "west": -156.09375,
+   "north": 64.16811,
+   "east": -154.6875
+  },
+  {
+   "file": "alaska-88.jmv",
+   "bytes": 23425138,
+   "sha256": "031a41bc5a1358d0fac345447f1a497e21a5a704a1a615bd968eb49a398bee34",
+   "south": 63.23363,
+   "west": -154.6875,
+   "north": 64.16811,
+   "east": -153.28125
+  },
+  {
+   "file": "alaska-89.jmv",
+   "bytes": 20952808,
+   "sha256": "7e59cc85d0b3417bd201e0866514c847e0eff5743c08fb3e27e5a7e3ec1cffc8",
+   "south": 63.23363,
+   "west": -153.28125,
+   "north": 64.16811,
+   "east": -151.17188
+  },
+  {
+   "file": "alaska-90.jmv",
+   "bytes": 32801738,
+   "sha256": "cd77970e854cc166eed0b3c6798db17c5b2d387880770073ec96145d6f854b01",
+   "south": 63.23363,
+   "west": -151.17188,
+   "north": 64.16811,
+   "east": -149.76562
+  },
+  {
+   "file": "alaska-91.jmv",
+   "bytes": 28406123,
+   "sha256": "e01a7a73178ebbc0089ea6c108c0078e764f0e198834bbda57e99a78bf264f7e",
+   "south": 63.54855,
+   "west": -147.65625,
+   "north": 64.16811,
+   "east": -146.25
+  },
+  {
+   "file": "alaska-92.jmv",
+   "bytes": 28314675,
+   "sha256": "685d40d7dacb2e3b536a3b39f4a137536148ab7dd4a1cb248287eed29f398b05",
+   "south": 63.54855,
+   "west": -149.76562,
+   "north": 63.86004,
+   "east": -147.65625
+  },
+  {
+   "file": "alaska-93.jmv",
+   "bytes": 36867360,
+   "sha256": "388ae6b27ab27e97f7558426bbb1811553b83364bd0c22c63f3d26a2a946bca0",
+   "south": 62.91523,
+   "west": -149.76562,
+   "north": 63.54855,
+   "east": -148.35938
+  },
+  {
+   "file": "alaska-94.jmv",
+   "bytes": 40159141,
+   "sha256": "908ed8637fc13c54a88483f02b9b61284849b3b1017e1f9fc5c024a6406674fd",
+   "south": 62.26792,
+   "west": -148.35938,
+   "north": 63.54855,
+   "east": -146.95312
+  },
+  {
+   "file": "alaska-95.jmv",
+   "bytes": 28146914,
+   "sha256": "cca42669f0a9ce75580e941a571b12d1df84eb163f1103b86794c310cc32e4a3",
+   "south": 62.91523,
+   "west": -146.95312,
+   "north": 63.54855,
+   "east": -145.54688
+  },
+  {
+   "file": "alaska-96.jmv",
+   "bytes": 17555378,
+   "sha256": "20e17baf223044acb06a5ea84df89b11a556fa230ae37e4742571cbac48e8b9c",
+   "south": 62.91523,
+   "west": -145.54688,
+   "north": 63.54855,
+   "east": -144.84375
+  },
+  {
+   "file": "alaska-97.jmv",
+   "bytes": 38681028,
+   "sha256": "63353ae7aee5dd71aec86c68f1a8e1c36b17e077474c146e1f66bcb7a5728285",
+   "south": 62.91523,
+   "west": -144.84375,
+   "north": 63.54855,
+   "east": -143.4375
+  },
+  {
+   "file": "alaska-98.jmv",
+   "bytes": 22529394,
+   "sha256": "e1c5122eef2d16892e63200234041e441dca868730887f67ec16329d83482841",
+   "south": 62.59334,
+   "west": -143.4375,
+   "north": 63.54855,
+   "east": -142.73438
+  },
+  {
+   "file": "alaska-99.jmv",
+   "bytes": 27885038,
+   "sha256": "bd7a6bb6185fa7fc8f2a2c42800637eb848686134acbe0f3550201920ebd5fd1",
+   "south": 62.59334,
+   "west": -142.73438,
+   "north": 63.54855,
+   "east": -140.93262
+  },
+  {
+   "file": "alaska-100.jmv",
+   "bytes": 40277828,
+   "sha256": "4a27ebae633f9b8f6d1724e93c9267d7b45e07caab487c392e05d94a2e076776",
+   "south": 59.88894,
+   "west": -173.54004,
+   "north": 63.23363,
+   "east": -163.125
+  },
+  {
+   "file": "alaska-101.jmv",
+   "bytes": 37781621,
+   "sha256": "b3f4c909c5dc8c3de9a2a3facd0f6d69046c5b854aef6330d555a60aec126856",
+   "south": 59.88894,
+   "west": -163.125,
+   "north": 63.23363,
+   "east": -161.71875
+  },
+  {
+   "file": "alaska-102.jmv",
+   "bytes": 22223726,
+   "sha256": "4470181a5aa58db1d40aa2d52247b37fe3b5c6b24167f302da28cea275f347f3",
+   "south": 62.59334,
+   "west": -161.71875,
+   "north": 63.23363,
+   "east": -159.60938
+  },
+  {
+   "file": "alaska-103.jmv",
+   "bytes": 21167760,
+   "sha256": "72890e4ec1d51c91c0593f91052fac1e5732b12922e476755f3a5750581dc4ef",
+   "south": 62.26792,
+   "west": -159.60938,
+   "north": 63.23363,
+   "east": -157.5
+  },
+  {
+   "file": "alaska-104.jmv",
+   "bytes": 30051619,
+   "sha256": "486c42a3d68d5366a58cb7518d4d600234c999118b8ef3ad2c32107a9425a238",
+   "south": 62.26792,
+   "west": -157.5,
+   "north": 63.23363,
+   "east": -155.39062
+  },
+  {
+   "file": "alaska-105.jmv",
+   "bytes": 26120103,
+   "sha256": "d09184d109209a5dfe9a118e88834213655c28e8f6e4d1b96f781220609a7589",
+   "south": 62.26792,
+   "west": -155.39062,
+   "north": 63.23363,
+   "east": -153.28125
+  },
+  {
+   "file": "alaska-106.jmv",
+   "bytes": 33283043,
+   "sha256": "c33c4a0d8f1760643fd526a005b1b2a107759ef42281e4421f9d567e697e8b81",
+   "south": 61.93895,
+   "west": -153.28125,
+   "north": 63.23363,
+   "east": -152.57812
+  },
+  {
+   "file": "alaska-107.jmv",
+   "bytes": 38342402,
+   "sha256": "88ad1ce39ac13343e82d2e4b7de6513539ffd28d873245f3fca61d4e82ccf87f",
+   "south": 62.59334,
+   "west": -152.57812,
+   "north": 63.23363,
+   "east": -151.17188
+  },
+  {
+   "file": "alaska-108.jmv",
+   "bytes": 29651360,
+   "sha256": "ab7d9230bf6134239ce8c8fa5e091dd29ec014ebe0e484083cd2216c43183d14",
+   "south": 62.59334,
+   "west": -151.17188,
+   "north": 63.23363,
+   "east": -150.46875
+  },
+  {
+   "file": "alaska-109.jmv",
+   "bytes": 21278636,
+   "sha256": "dd35eed6b0ba0eefb202c851dcca316a1037ea22b21442cdb3a5f763c22d1416",
+   "south": 62.59334,
+   "west": -150.46875,
+   "north": 63.23363,
+   "east": -149.76562
+  },
+  {
+   "file": "alaska-110.jmv",
+   "bytes": 30692298,
+   "sha256": "aad8cbe76170c1a213212b3407982ca7aea8656f249a23f2215aa5b3bc9dc4b5",
+   "south": 62.26792,
+   "west": -149.76562,
+   "north": 62.91523,
+   "east": -148.35938
+  },
+  {
+   "file": "alaska-111.jmv",
+   "bytes": 20238728,
+   "sha256": "acf4af9ce61f3811439f2947f907ecc6e093ae4b840614701c87d4adc128fded",
+   "south": 61.93895,
+   "west": -146.95312,
+   "north": 62.91523,
+   "east": -144.84375
+  },
+  {
+   "file": "alaska-112.jmv",
+   "bytes": 37214920,
+   "sha256": "d914c1a25ac9d5aea1611cf89a37e91e71a885210d758eaac80d45a40219c482",
+   "south": 61.93895,
+   "west": -144.84375,
+   "north": 62.91523,
+   "east": -143.4375
+  },
+  {
+   "file": "alaska-113.jmv",
+   "bytes": 23551029,
+   "sha256": "1937ba6031df7b62ad5e685a28896ba1d76b7fb7c55f4fda4e6d11f80cd83061",
+   "south": 61.6064,
+   "west": -161.71875,
+   "north": 62.59334,
+   "east": -159.60938
+  },
+  {
+   "file": "alaska-114.jmv",
+   "bytes": 21161003,
+   "sha256": "a33b8721f2b5c9c7815516cb572ea31d44680441176df44e01c444b4d9ee9c10",
+   "south": 61.93895,
+   "west": -152.57812,
+   "north": 62.59334,
+   "east": -151.875
+  },
+  {
+   "file": "alaska-115.jmv",
+   "bytes": 24337584,
+   "sha256": "a3a7f97b531f320a401b6201fadbe11b9d7e60c5c1dec43c48187901be66fa89",
+   "south": 61.93895,
+   "west": -151.875,
+   "north": 62.59334,
+   "east": -149.76562
+  },
+  {
+   "file": "alaska-116.jmv",
+   "bytes": 22884048,
+   "sha256": "845b181eccefb9893b3ec1b8aa12dad0c708ac895f75f7242b7f18fb907932ed",
+   "south": 62.26792,
+   "west": -143.4375,
+   "north": 62.59334,
+   "east": -142.03125
+  },
+  {
+   "file": "alaska-117.jmv",
+   "bytes": 35852535,
+   "sha256": "91a6d152db1e1f89a0670b89f577e649318e169cdc9690c4ae2ad00a4764d5ce",
+   "south": 61.6064,
+   "west": -142.03125,
+   "north": 62.59334,
+   "east": -140.93262
+  },
+  {
+   "file": "alaska-118.jmv",
+   "bytes": 23212894,
+   "sha256": "06aff2f0d611027ca98dc632523bde74b153245ffbc88ff3f894759c1d062964",
+   "south": 61.6064,
+   "west": -159.60938,
+   "north": 62.26792,
+   "east": -157.5
+  },
+  {
+   "file": "alaska-119.jmv",
+   "bytes": 20754537,
+   "sha256": "68bb3fb4ca1b04bedc4913cb71df037cf01156abebcb0d06d0baddbb8d6f73e7",
+   "south": 61.6064,
+   "west": -157.5,
+   "north": 62.26792,
+   "east": -155.39062
+  },
+  {
+   "file": "alaska-120.jmv",
+   "bytes": 22904164,
+   "sha256": "34a4495ffebe5059f7dee1f2a2ab8648598aa830f0139ff86f23c52c5c4c6a44",
+   "south": 61.93895,
+   "west": -155.39062,
+   "north": 62.26792,
+   "east": -153.28125
+  },
+  {
+   "file": "alaska-121.jmv",
+   "bytes": 21458235,
+   "sha256": "c73a4629c7fd8ed89d855ad883e404eeb886aead19c3edfa1b549eb65f877e63",
+   "south": 61.6064,
+   "west": -149.76562,
+   "north": 62.26792,
+   "east": -149.0625
+  },
+  {
+   "file": "alaska-122.jmv",
+   "bytes": 29912301,
+   "sha256": "5a620a6640f9717b34e246b1791d1b601175d45580684c95bd70a46ea1e07a72",
+   "south": 61.6064,
+   "west": -149.0625,
+   "north": 62.26792,
+   "east": -148.35938
+  },
+  {
+   "file": "alaska-123.jmv",
+   "bytes": 42567737,
+   "sha256": "6914f6b4ad265e3164eeacaac4ddef900a01f0f539f67ed11a10ee835b7a5d84",
+   "south": 61.6064,
+   "west": -148.35938,
+   "north": 62.26792,
+   "east": -146.95312
+  },
+  {
+   "file": "alaska-124.jmv",
+   "bytes": 43202072,
+   "sha256": "de4a11d1a1787a084ac598e52cd7515cfbdc8e659051c49a06edff54ab2ef44b",
+   "south": 61.6064,
+   "west": -143.4375,
+   "north": 62.26792,
+   "east": -142.03125
+  },
+  {
+   "file": "alaska-125.jmv",
+   "bytes": 41182466,
+   "sha256": "7a99c116da33cb4c9116ae223f26ea322b5298d764b0b9c44e9a9f01c2f2b553",
+   "south": 60.93043,
+   "west": -155.39062,
+   "north": 61.93895,
+   "east": -153.98438
+  },
+  {
+   "file": "alaska-126.jmv",
+   "bytes": 22494031,
+   "sha256": "c8fbe84b2f2255992d4b8c4f73d99e56cc13157906dd818855dddf973b9c8d9c",
+   "south": 61.6064,
+   "west": -153.98438,
+   "north": 61.93895,
+   "east": -152.57812
+  },
+  {
+   "file": "alaska-127.jmv",
+   "bytes": 37583204,
+   "sha256": "cff1ab9100d79b33fa512ec6a97533656592bb50f0c35a883a997e3f3666a60a",
+   "south": 60.93043,
+   "west": -152.57812,
+   "north": 61.93895,
+   "east": -151.875
+  },
+  {
+   "file": "alaska-128.jmv",
+   "bytes": 28183771,
+   "sha256": "dc7d6ae59079291eceeeb67b6e0833fadc7e5c6fa6e35f890af74a40d6d0eed0",
+   "south": 60.93043,
+   "west": -151.875,
+   "north": 61.93895,
+   "east": -149.76562
+  },
+  {
+   "file": "alaska-129.jmv",
+   "bytes": 23722803,
+   "sha256": "34496f0190b163289d86358b5cbecc9f0d71b9ef869d850677bac6c8fc303c20",
+   "south": 61.6064,
+   "west": -146.95312,
+   "north": 61.93895,
+   "east": -144.84375
+  },
+  {
+   "file": "alaska-130.jmv",
+   "bytes": 21266273,
+   "sha256": "9b0d42e06ac89373b387fdaba95ac57a4a386ff94d75d5fc309295dbd178e43c",
+   "south": 61.6064,
+   "west": -144.84375,
+   "north": 61.93895,
+   "east": -143.4375
+  },
+  {
+   "file": "alaska-131.jmv",
+   "bytes": 27024183,
+   "sha256": "fda3b3608e9835a24d50e4aff336ef2c70fd7c0e40a00e3cb11520088abca62a",
+   "south": 60.58697,
+   "west": -161.71875,
+   "north": 61.6064,
+   "east": -159.60938
+  },
+  {
+   "file": "alaska-132.jmv",
+   "bytes": 25688707,
+   "sha256": "a0480801d7a1ba040727ed7b3847b115079bd2d1b07b2e9ab798636d0c976e7b",
+   "south": 60.93043,
+   "west": -159.60938,
+   "north": 61.6064,
+   "east": -157.5
+  },
+  {
+   "file": "alaska-133.jmv",
+   "bytes": 36554129,
+   "sha256": "60cbfac8031f427132e3f0df87cd971a30d68dd826ae4c646e52f864ba0ee49e",
+   "south": 60.23981,
+   "west": -157.5,
+   "north": 61.6064,
+   "east": -155.39062
+  },
+  {
+   "file": "alaska-134.jmv",
+   "bytes": 39334266,
+   "sha256": "75c99135344977fb314e83e1cec38291d53da0a3511985222e9f8f52f2f91b11",
+   "south": 60.93043,
+   "west": -153.98438,
+   "north": 61.6064,
+   "east": -152.57812
+  },
+  {
+   "file": "alaska-135.jmv",
+   "bytes": 20337732,
+   "sha256": "1bd009c9a7c49ccd11501f9afebcc6186820e3c75b8997bf257205cf4e7d9d22",
+   "south": 60.93043,
+   "west": -149.76562,
+   "north": 61.6064,
+   "east": -149.0625
+  },
+  {
+   "file": "alaska-136.jmv",
+   "bytes": 27670602,
+   "sha256": "c3f1a2d110c0fa69d3a88bd4579a35e35753ab150659c1d53d46cee20b768d21",
+   "south": 60.93043,
+   "west": -149.0625,
+   "north": 61.6064,
+   "east": -148.35938
+  },
+  {
+   "file": "alaska-137.jmv",
+   "bytes": 28524324,
+   "sha256": "9f8906fc2a4e6068a0afd9b31c641af04e777998845df459077a3f8607387e2d",
+   "south": 60.93043,
+   "west": -148.35938,
+   "north": 61.6064,
+   "east": -147.65625
+  },
+  {
+   "file": "alaska-138.jmv",
+   "bytes": 26650474,
+   "sha256": "f0a10b2280a8e409477b252be7bd5f0849370e3579dca19de8d8236aa9228395",
+   "south": 60.93043,
+   "west": -147.65625,
+   "north": 61.6064,
+   "east": -146.95312
+  },
+  {
+   "file": "alaska-139.jmv",
+   "bytes": 23891003,
+   "sha256": "8b2e77405e80e99116ab8ad89b483121be6c8e47d9bcbb51a00c56f6882e89b8",
+   "south": 60.93043,
+   "west": -146.95312,
+   "north": 61.6064,
+   "east": -146.25
+  },
+  {
+   "file": "alaska-140.jmv",
+   "bytes": 25086453,
+   "sha256": "9c531911fbc9d9ee875d33e1b6b6c8acd449442f9bb18102d21551a82e0ab119",
+   "south": 60.93043,
+   "west": -146.25,
+   "north": 61.6064,
+   "east": -145.54688
+  },
+  {
+   "file": "alaska-141.jmv",
+   "bytes": 23709322,
+   "sha256": "7dd009514ddb9d0a67cd12aa6160f67b3ae899313597d1b09065bd3e8bf2dbd4",
+   "south": 60.93043,
+   "west": -145.54688,
+   "north": 61.6064,
+   "east": -144.84375
+  },
+  {
+   "file": "alaska-142.jmv",
+   "bytes": 24371896,
+   "sha256": "f9a111eb17946e1e57ee6bf1212281e44d62c76dc255e4172accbace4aee5fdc",
+   "south": 60.93043,
+   "west": -144.84375,
+   "north": 61.6064,
+   "east": -144.14062
+  },
+  {
+   "file": "alaska-143.jmv",
+   "bytes": 24398071,
+   "sha256": "ea26eb60eadc832bc3ed55f8997c12a8d2e5976bff68ab06ad26c8695d1b7f3e",
+   "south": 60.93043,
+   "west": -144.14062,
+   "north": 61.6064,
+   "east": -143.4375
+  },
+  {
+   "file": "alaska-144.jmv",
+   "bytes": 21974872,
+   "sha256": "b934d625d291bc19d33528201182c3deb610a4a070b865ddfef46a6eb1d26cf5",
+   "south": 60.93043,
+   "west": -143.4375,
+   "north": 61.6064,
+   "east": -142.73438
+  },
+  {
+   "file": "alaska-145.jmv",
+   "bytes": 26072858,
+   "sha256": "f2ce7d2f5124cf31769f8ca855e4407b42b46afbcbbdbb7702bcd01946fb78b5",
+   "south": 60.93043,
+   "west": -142.73438,
+   "north": 61.6064,
+   "east": -142.03125
+  },
+  {
+   "file": "alaska-146.jmv",
+   "bytes": 32738170,
+   "sha256": "7e8e7f9aad286ca396f57f9e11d4f4ea6df40dacdcd6e601f88be957bb80f5d1",
+   "south": 60.93043,
+   "west": -142.03125,
+   "north": 61.6064,
+   "east": -141.32812
+  },
+  {
+   "file": "alaska-147.jmv",
+   "bytes": 17826290,
+   "sha256": "0accfcd9fe00d5ffb07ec56528b86b7c51114351a9e4f21367710ce013a150ee",
+   "south": 60.93043,
+   "west": -141.32812,
+   "north": 61.6064,
+   "east": -140.93262
+  },
+  {
+   "file": "alaska-148.jmv",
+   "bytes": 28279674,
+   "sha256": "5fef1ea653863674ba455996837df614b57b6b922df9b8d8281ed1de4823de4f",
+   "south": 60.23981,
+   "west": -159.60938,
+   "north": 60.93043,
+   "east": -157.5
+  },
+  {
+   "file": "alaska-149.jmv",
+   "bytes": 20009828,
+   "sha256": "213c4cd49a821d557b52615d3d7dc94d39b8f437c4b3377a2768e8565a5a9304",
+   "south": 60.23981,
+   "west": -155.39062,
+   "north": 60.93043,
+   "east": -153.98438
+  },
+  {
+   "file": "alaska-150.jmv",
+   "bytes": 27105704,
+   "sha256": "d2212940ca5805763e4570ab919e25632868f70cb939dbed80fdf26d5d8cd3a9",
+   "south": 60.23981,
+   "west": -153.98438,
+   "north": 60.93043,
+   "east": -153.28125
+  },
+  {
+   "file": "alaska-151.jmv",
+   "bytes": 31606818,
+   "sha256": "d3cc5ab2ee2ad2425350806745ce388a7e6de42cb4224c22f925b7feec2d54a9",
+   "south": 60.23981,
+   "west": -153.28125,
+   "north": 60.93043,
+   "east": -151.17188
+  },
+  {
+   "file": "alaska-152.jmv",
+   "bytes": 26512238,
+   "sha256": "02ec107200eb0647085fdccba154c8df4b05c180660d6a9628199174af10365b",
+   "south": 59.88894,
+   "west": -151.17188,
+   "north": 60.93043,
+   "east": -149.76562
+  },
+  {
+   "file": "alaska-153.jmv",
+   "bytes": 37990454,
+   "sha256": "637bdbb8b0d8f3227890eb511b26ef13e89c34b91e6efc7777970c6c5617963a",
+   "south": 60.58697,
+   "west": -149.76562,
+   "north": 60.93043,
+   "east": -146.95312
+  },
+  {
+   "file": "alaska-154.jmv",
+   "bytes": 40240912,
+   "sha256": "5798a4465d31166115ef1a2f8387ef33819fe93e9acb286949d2e629a59942fd",
+   "south": 59.17593,
+   "west": -146.95312,
+   "north": 60.93043,
+   "east": -144.84375
+  },
+  {
+   "file": "alaska-155.jmv",
+   "bytes": 40911857,
+   "sha256": "e032ac384847ad7c52a415b59ff4d98cc518fca4859f1f5b207c967b31c6eb58",
+   "south": 59.55659,
+   "west": -144.84375,
+   "north": 60.93043,
+   "east": -143.4375
+  },
+  {
+   "file": "alaska-156.jmv",
+   "bytes": 38774739,
+   "sha256": "65026d2613db9b37ab849608057e60c2d7b9208bb64a440274f097cc60200d64",
+   "south": 60.58697,
+   "west": -143.4375,
+   "north": 60.93043,
+   "east": -140.93262
+  },
+  {
+   "file": "alaska-157.jmv",
+   "bytes": 25760595,
+   "sha256": "6bf90078c99ef18fa435f658c17ceec31904916253e32a3495adbc81e075b5f9",
+   "south": 59.88894,
+   "west": -161.71875,
+   "north": 60.58697,
+   "east": -159.60938
+  },
+  {
+   "file": "alaska-158.jmv",
+   "bytes": 27683653,
+   "sha256": "c3d32143131aca4378c7c48898949edb16d0d4388b49602dbf0bc7d43f22fb00",
+   "south": 59.31077,
+   "west": -149.76562,
+   "north": 60.58697,
+   "east": -149.0625
+  },
+  {
+   "file": "alaska-159.jmv",
+   "bytes": 37312386,
+   "sha256": "bc78a088edb7137e6180b76a63bd3b8de2d33c39820795609062d72e64d6fe96",
+   "south": 59.55659,
+   "west": -149.0625,
+   "north": 60.58697,
+   "east": -146.95312
+  },
+  {
+   "file": "alaska-160.jmv",
+   "bytes": 24784713,
+   "sha256": "6deb3ff4039ab87a35b01e0d61ecd1800a85de5d5c66b6880144124b4092793d",
+   "south": 59.80063,
+   "west": -143.4375,
+   "north": 60.58697,
+   "east": -142.03125
+  },
+  {
+   "file": "alaska-161.jmv",
+   "bytes": 30128634,
+   "sha256": "5445623ff7a9223b47c4a131022335ca0b3eb485f9682cc84f9de3058d22894e",
+   "south": 59.48973,
+   "west": -142.03125,
+   "north": 60.58697,
+   "east": -140.625
+  },
+  {
+   "file": "alaska-162.jmv",
+   "bytes": 16912107,
+   "sha256": "e8e029e77936f1113636ec1326147fb6fb73243869c511fe704c3ec1480b59d9",
+   "south": 59.88894,
+   "west": -140.625,
+   "north": 60.37043,
+   "east": -139.92188
+  },
+  {
+   "file": "alaska-163.jmv",
+   "bytes": 28449739,
+   "sha256": "d434f615d282877ca40c2ea4bf47c045c7bd87e5b9ff349a7732522f88de0848",
+   "south": 59.88894,
+   "west": -139.92188,
+   "north": 60.39215,
+   "east": -138.60352
+  },
+  {
+   "file": "alaska-164.jmv",
+   "bytes": 38512136,
+   "sha256": "cc6abf2f5f342a5c611e78bdbe209b4ce3c4d226102f253e0792a976051aa912",
+   "south": 58.44773,
+   "west": -159.60938,
+   "north": 60.23981,
+   "east": -158.90625
+  },
+  {
+   "file": "alaska-165.jmv",
+   "bytes": 21101700,
+   "sha256": "4e10513a95f83f9a5ff37f41e68741f7c33702b9d056597aa983fb6d605662b8",
+   "south": 58.44773,
+   "west": -158.90625,
+   "north": 60.23981,
+   "east": -157.5
+  },
+  {
+   "file": "alaska-166.jmv",
+   "bytes": 26171214,
+   "sha256": "a47e7e958c4482e4a56805fe16dc494a4852fbc9f5d29a9a6c74d7f30a02a66a",
+   "south": 58.44773,
+   "west": -157.5,
+   "north": 60.23981,
+   "east": -155.39062
+  },
+  {
+   "file": "alaska-167.jmv",
+   "bytes": 38502741,
+   "sha256": "d63328717a54e4da83005063f79bf8b27f872035e0f918728068d697fe33f179",
+   "south": 59.53432,
+   "west": -155.39062,
+   "north": 60.23981,
+   "east": -153.28125
+  },
+  {
+   "file": "alaska-168.jmv",
+   "bytes": 18353316,
+   "sha256": "06f3d7a8a23c9835c30667f2d9b6c5089b0c6fa5cd6e4e9baf83d7c08a0f2988",
+   "south": 59.53432,
+   "west": -153.28125,
+   "north": 60.23981,
+   "east": -151.17188
+  },
+  {
+   "file": "alaska-169.jmv",
+   "bytes": 35551342,
+   "sha256": "28a4cb8b397bcd1cf162de5b3955a13267212216b61f7be5b1c039d3e18f0818",
+   "south": 50.9861,
+   "west": -180.0,
+   "north": 59.88894,
+   "east": -167.34375
+  },
+  {
+   "file": "alaska-170.jmv",
+   "bytes": 20561270,
+   "sha256": "84dccf2cdea227f212705c407adba7c29c2b432f752081e0b1be0ff0e64557fb",
+   "south": 54.16243,
+   "west": -167.34375,
+   "north": 59.88894,
+   "east": -162.42188
+  },
+  {
+   "file": "alaska-171.jmv",
+   "bytes": 27953456,
+   "sha256": "e16cccc6ffd806e769979177643d37746d4f298c4e37f7718359f4d5557849b5",
+   "south": 58.81374,
+   "west": -162.42188,
+   "north": 59.88894,
+   "east": -160.3125
+  },
+  {
+   "file": "alaska-172.jmv",
+   "bytes": 19182070,
+   "sha256": "c95a7f8b0d41ca0f8d79bdbb2341661df13b0f2b08047c7e3545cdb17cb32002",
+   "south": 58.81374,
+   "west": -160.3125,
+   "north": 59.88894,
+   "east": -159.60938
+  },
+  {
+   "file": "alaska-173.jmv",
+   "bytes": 19504118,
+   "sha256": "62088cc6dea53715063943f09cbaaf1e6c4def01eb34e941a9d84a935ea6abb1",
+   "south": 59.53432,
+   "west": -151.17188,
+   "north": 59.88894,
+   "east": -149.76562
+  },
+  {
+   "file": "alaska-174.jmv",
+   "bytes": 22262913,
+   "sha256": "28f171952e25d7e8d510ff5077e16abe5cf6a8d1f747a172227a1a1fa38d9206",
+   "south": 59.53432,
+   "west": -140.625,
+   "north": 59.88894,
+   "east": -138.03223
+  },
+  {
+   "file": "alaska-175.jmv",
+   "bytes": 29542171,
+   "sha256": "d173f59d23dc490b4677451564173730b824e9fa5c0033e0dc4784c06b7430f8",
+   "south": 59.17593,
+   "west": -137.8125,
+   "north": 59.77852,
+   "east": -135.70312
+  },
+  {
+   "file": "alaska-176.jmv",
+   "bytes": 31474665,
+   "sha256": "af06925006baa8b9a8577d5f6874c8f1958ca73dee4c6a087a728740ad017de1",
+   "south": 59.17593,
+   "west": -135.70312,
+   "north": 59.86688,
+   "east": -134.42871
+  },
+  {
+   "file": "alaska-177.jmv",
+   "bytes": 35369931,
+   "sha256": "855ddecb8b30cbe1ecb29b9f04281018f4d539a2d10910f4c331adf9759e8ca2",
+   "south": 58.44773,
+   "west": -155.39062,
+   "north": 59.53432,
+   "east": -153.98438
+  },
+  {
+   "file": "alaska-178.jmv",
+   "bytes": 31586537,
+   "sha256": "e14a23554de1d1fc53fd6d1bbaaf283d1b617eea0c5e46318c2ca2c2ad4d02b7",
+   "south": 58.44773,
+   "west": -153.98438,
+   "north": 59.53432,
+   "east": -149.76562
+  },
+  {
+   "file": "alaska-179.jmv",
+   "bytes": 24075425,
+   "sha256": "0e4a65857bfe627edf87d037bdf5172fc817c23f477b71c8f198d92c38e18a26",
+   "south": 58.40171,
+   "west": -140.625,
+   "north": 59.53432,
+   "east": -137.8125
+  },
+  {
+   "file": "alaska-180.jmv",
+   "bytes": 25490043,
+   "sha256": "93f34d9ada3bebbc83e831e901304b36e5b65171c9e4c14ac4fab353298aac69",
+   "south": 58.44773,
+   "west": -137.8125,
+   "north": 59.17593,
+   "east": -137.10938
+  },
+  {
+   "file": "alaska-181.jmv",
+   "bytes": 43247350,
+   "sha256": "f51edfd5d009c75aa2fc53c01c7988de2aacd3254dfffafae69a7e4c2e2186f8",
+   "south": 58.44773,
+   "west": -137.10938,
+   "north": 59.17593,
+   "east": -135.70312
+  },
+  {
+   "file": "alaska-182.jmv",
+   "bytes": 23923143,
+   "sha256": "a240ec810cbfed224335fb382335d242df8c7e7b3b49b0749fa84d73a1320591",
+   "south": 58.44773,
+   "west": -135.70312,
+   "north": 59.17593,
+   "east": -135.0
+  },
+  {
+   "file": "alaska-183.jmv",
+   "bytes": 32742395,
+   "sha256": "20df03baff55853efa6ce10eb15c088641368f022ad2b5c01bd9e4492e4cd7c4",
+   "south": 58.44773,
+   "west": -135.0,
+   "north": 59.17593,
+   "east": -133.59375
+  },
+  {
+   "file": "alaska-184.jmv",
+   "bytes": 16021018,
+   "sha256": "017d895bf3a3c15ed0d6ef79b58db8c4d5aff380a8ab27b215503cc3b9015c76",
+   "south": 55.77657,
+   "west": -162.42188,
+   "north": 58.81374,
+   "east": -159.60938
+  },
+  {
+   "file": "alaska-185.jmv",
+   "bytes": 35252067,
+   "sha256": "25c2c2655f62a7e3932d1e9305c90f115a2f51add1b4a1c6d2a47b459f63e444",
+   "south": 57.70415,
+   "west": -133.59375,
+   "north": 58.63122,
+   "east": -132.58301
+  },
+  {
+   "file": "alaska-186.jmv",
+   "bytes": 18861081,
+   "sha256": "9e4995cb46e04e0e7326be1724d04ab44aaf78c12deaf74a085cf12f35fd6c2e",
+   "south": 56.94497,
+   "west": -159.52148,
+   "north": 58.44773,
+   "east": -156.79688
+  },
+  {
+   "file": "alaska-187.jmv",
+   "bytes": 27020133,
+   "sha256": "d06d458c541b7f2ebaf65ac65ce37cce2392edf235620ad87ddcf503803531ec",
+   "south": 56.94497,
+   "west": -156.79688,
+   "north": 58.44773,
+   "east": -155.39062
+  },
+  {
+   "file": "alaska-188.jmv",
+   "bytes": 20783815,
+   "sha256": "fcf13f2680847474ab10e324fb504fd563436c8499ea9fa4b1f3d76df50d48fb",
+   "south": 57.70415,
+   "west": -155.39062,
+   "north": 58.44773,
+   "east": -153.98438
+  },
+  {
+   "file": "alaska-189.jmv",
+   "bytes": 21123418,
+   "sha256": "0aa7edbe8bd16f7f05943902dd0e5015a687ce5048434cd3b0f33f04adc79866",
+   "south": 57.70415,
+   "west": -153.98438,
+   "north": 58.44773,
+   "east": -151.3916
+  },
+  {
+   "file": "alaska-190.jmv",
+   "bytes": 39805315,
+   "sha256": "90f4d246af6c3c85d71e3431d7e5cc7291297afc34f5cd2f5f25c7e1305da936",
+   "south": 57.70415,
+   "west": -137.8125,
+   "north": 58.44773,
+   "east": -135.0
+  },
+  {
+   "file": "alaska-191.jmv",
+   "bytes": 36280198,
+   "sha256": "492424a92c34ffa259088921c51c91da418097bf38ecd0890c9aed8f612025ff",
+   "south": 57.70415,
+   "west": -135.0,
+   "north": 58.44773,
+   "east": -133.59375
+  },
+  {
+   "file": "alaska-192.jmv",
+   "bytes": 33012314,
+   "sha256": "6785aa880c6026b17e24a0d4ddfc16ebdb3ab85563950b924fb93319fd2b8730",
+   "south": 55.57834,
+   "west": -155.39062,
+   "north": 57.70415,
+   "east": -153.28125
+  },
+  {
+   "file": "alaska-193.jmv",
+   "bytes": 17067098,
+   "sha256": "24fd2c5e67e9f099310b8c37a7def7ced2ec83191b056cbc4eaaaebc7e1b9d61",
+   "south": 56.75272,
+   "west": -153.28125,
+   "north": 57.70415,
+   "east": -151.74316
+  },
+  {
+   "file": "alaska-194.jmv",
+   "bytes": 31013076,
+   "sha256": "339fd05758910d21e102b41bc637af0286fe3479db176d033c23cd20cb931b91",
+   "south": 56.94497,
+   "west": -136.80176,
+   "north": 57.70415,
+   "east": -135.0
+  },
+  {
+   "file": "alaska-195.jmv",
+   "bytes": 24741740,
+   "sha256": "e69b0e92775329e626e4404c295aa950140f9043cb1d874ac5f451afd7ffa297",
+   "south": 56.94497,
+   "west": -135.0,
+   "north": 57.70415,
+   "east": -133.59375
+  },
+  {
+   "file": "alaska-196.jmv",
+   "bytes": 21404426,
+   "sha256": "37b49ab1a0387d1879df3524f1756b90a731d9a4b2c0f6655ec8f9a5653a6ba0",
+   "south": 56.94497,
+   "west": -133.59375,
+   "north": 57.70415,
+   "east": -132.89062
+  },
+  {
+   "file": "alaska-197.jmv",
+   "bytes": 24149700,
+   "sha256": "3c8172b37c4cc59df4e296229c79ef0c18be9b04b405f71f67f2fd7dd5bff978",
+   "south": 56.94497,
+   "west": -132.89062,
+   "north": 57.70415,
+   "east": -132.1875
+  },
+  {
+   "file": "alaska-198.jmv",
+   "bytes": 18877324,
+   "sha256": "1f3823434778e28a8a0af87e6a51ccdc534a1a056996d71ba5d42a8976e4bfa6",
+   "south": 56.55948,
+   "west": -132.1875,
+   "north": 57.27904,
+   "east": -131.26465
+  },
+  {
+   "file": "alaska-199.jmv",
+   "bytes": 27025490,
+   "sha256": "ede72a4d6161ee6426503f8f8e271be654509d198eaf70d4bab26255a04f83af",
+   "south": 56.17002,
+   "west": -159.60938,
+   "north": 56.94497,
+   "east": -156.09375
+  },
+  {
+   "file": "alaska-200.jmv",
+   "bytes": 38962204,
+   "sha256": "b25b934206e434abf733a26b5839907023bcd736e24f94cbbb335b3bad047985",
+   "south": 54.54658,
+   "west": -136.23047,
+   "north": 56.94497,
+   "east": -133.59375
+  },
+  {
+   "file": "alaska-201.jmv",
+   "bytes": 43276830,
+   "sha256": "0e4d25573cf3f13cdedd231193b82ce403fb1a4daf7c424a9a442736e6cdd6ad",
+   "south": 55.77657,
+   "west": -133.59375,
+   "north": 56.94497,
+   "east": -132.1875
+  },
+  {
+   "file": "alaska-202.jmv",
+   "bytes": 33705646,
+   "sha256": "0afd1b402412c11f5995ad286606e5e614ca97001419b6bbf7cdc6ca674460e4",
+   "south": 56.17002,
+   "west": -132.1875,
+   "north": 56.55948,
+   "east": -130.78125
+  },
+  {
+   "file": "alaska-203.jmv",
+   "bytes": 24222536,
+   "sha256": "a26e5f66a1a6527835dccdf510c195497277b57bd8e93451314922a33e5c1004",
+   "south": 55.77657,
+   "west": -130.78125,
+   "north": 56.38958,
+   "east": -130.07812
+  },
+  {
+   "file": "alaska-204.jmv",
+   "bytes": 16345205,
+   "sha256": "7eada9e3513c5ca7a9636ad40a101a0f57af1407bb67217f1627d1b1791d34ee",
+   "south": 54.54658,
+   "west": -159.60938,
+   "north": 56.17002,
+   "east": -155.39062
+  },
+  {
+   "file": "alaska-205.jmv",
+   "bytes": 31204251,
+   "sha256": "39d37ef9185cc7421f072b337b924dc3071cf42f947f8f55fa3c2d3b6a37f2de",
+   "south": 55.77657,
+   "west": -132.1875,
+   "north": 56.17002,
+   "east": -130.78125
+  },
+  {
+   "file": "alaska-206.jmv",
+   "bytes": 40828898,
+   "sha256": "61b910e1f2e4d18ebb9fb08f975dfc50dbcef9cddc3dc92a612986c8fe628727",
+   "south": 51.34434,
+   "west": -130.07812,
+   "north": 56.17002,
+   "east": 179.78027
+  },
+  {
+   "file": "alaska-207.jmv",
+   "bytes": 29914994,
+   "sha256": "8d9c57cab9c5899b8ddb330d5f3cc700627ba74151a24cff0c2e6ffab604a6dd",
+   "south": 54.11094,
+   "west": -162.42188,
+   "north": 55.77657,
+   "east": -159.60938
+  },
+  {
+   "file": "alaska-208.jmv",
+   "bytes": 36560930,
+   "sha256": "f3193ec581adc5c494067d82368bf3b0ca0f16f398eb880c6e58c4cb367bc9f1",
+   "south": 54.47004,
+   "west": -133.59375,
+   "north": 55.77657,
+   "east": -132.1875
+  },
+  {
+   "file": "alaska-209.jmv",
+   "bytes": 40164189,
+   "sha256": "a7d621d550a1881786809d5ca72060196650469b129287a382818b5d85b086e7",
+   "south": 54.54658,
+   "west": -132.1875,
+   "north": 55.77657,
+   "east": -130.78125
+  },
+  {
+   "file": "alaska-210.jmv",
+   "bytes": 41401659,
+   "sha256": "96ec324dc652a108c19a2fe83e9627d6927d6efaf62fc2770a8b3dfcc521db09",
+   "south": 54.57206,
+   "west": -130.78125,
+   "north": 55.77657,
+   "east": -130.07812
+  },
+  {
+   "file": "alaska-211.jmv",
+   "bytes": 21838477,
+   "sha256": "62968d2e34a928ff0aef2e2ad07b82d80d137d9f2e04eeb556b8750cf42b7e4f",
+   "south": 53.06763,
+   "west": -167.34375,
+   "north": 54.16243,
+   "east": -162.42188
+  }
+ ]
+}
